@@ -1,0 +1,134 @@
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+
+{
+"name": "newname"
+}
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+{'name': 'newname'}
+
+<> 2021-05-08T124219.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+{name: "newname"}
+
+<> 2021-05-08T124202.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+
+<> 2021-05-08T124139.500.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+{"name": "newname"}
+
+<> 2021-05-08T124034.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json Cookie: key=first-value
+{"name": "newname"}
+
+<> 2021-05-08T123342.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json
+{"name": "newname"}
+
+<> 2021-05-08T123259.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+{"name": "newname"}
+
+<> 2021-05-08T123140.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+Content-Type: application/json Cookie: key=first-value
+{"name": "newname"}
+
+<> 2021-05-08T123127.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+{"name": "newname"}
+
+<> 2021-05-08T122959.400.html
+
+###
+
+POST http://localhost:8080/addDepartment
+
+###
+
+POST http://localhost:8080/addDepartment
+
+###
+
+POST http://localhost:8080/addDepartment
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085628.500.html
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085529.404.html
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085356.404.html
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085306.404.html
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085228.404.html
+
+###
+
+POST http://localhost/addDepartment
+
+###
+
+POST http://localhost:8080/addDepartment
+
+<> 2021-05-07T085036.404.html
+
+###
+
+POST http://localhost/addDepartment
+
+###
+
